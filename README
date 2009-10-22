@@ -1,2 +1,3 @@
+rdict depends on ruby-gtk2 library and dict program.
 Copy cat.gif to /usr/local/share/rdict/
 
